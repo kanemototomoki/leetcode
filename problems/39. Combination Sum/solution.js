@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/combination-sum/
+// https://en.wikipedia.org/wiki/Knapsack_problem#Solving
 
 /**
  * @param {number[]} candidates
